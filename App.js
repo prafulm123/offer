@@ -5,7 +5,6 @@ import FormProvider from './src/context/FormContext';
 
 export default function App() {
   return (
-    
     <View style={styles.container}>
       <FormProvider>
         <StatusBar style="auto" />
